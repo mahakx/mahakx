@@ -1,6 +1,6 @@
 # ୧ ‧₊˚ 🍵 ⋅ᰔᩚ 
 
-### About Me 🐢<br />
+### About Me 🐢
 
 Hey there! 👋 I'm Maha, a passionate coder with a knack for crafting immersive digital experiences. Whether I'm diving into RPG worlds or meticulously coding game mechanics, I find joy in both playing and creating games. 
 
@@ -12,7 +12,7 @@ with fellow gamers, developers, and creatives to collaborate on exciting project
  
 <img align=left width=180 src="0e28c1e1-2b46-11eb-98c3-8bd6c09c09f8.gif"> 
 
-### Languages 🍃 
+<br /> ### Languages 🍃 
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,c,cs,cpp,java,py)](https://skillicons.dev)
 
