@@ -19,3 +19,4 @@ Beyond technology, I enjoy cooking/baking complex recipes, sketching, and playin
 ### Let's connect! 💚 
 
 [![Linkedin: Maha](https://img.shields.io/badge/-Maha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maha-khan-mk)](https://www.linkedin.com/in/maha-khan-mk)
+![200w](https://github.com/mahakx/mahakx/assets/107661850/5702f917-9457-4b0d-8d51-f78083a74089)
