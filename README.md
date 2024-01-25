@@ -2,8 +2,7 @@
 
 ### About Me 🐢
 
-
-<img align=right width=150 src="0e28c1e1-2b46-11eb-98c3-8bd6c09c09f8.gif"> Hey there! 👋 I'm Maha, a passionate coder with a knack for crafting immersive digital experiences. Whether I'm diving into RPG worlds or meticulously coding game mechanics, I find joy in both playing and creating games. 
+Hey there! 👋 I'm Maha, a passionate coder with a knack for crafting immersive digital experiences. Whether I'm diving into RPG worlds or meticulously coding game mechanics, I find joy in both playing and creating games. 
 
 When I'm not gaming, I'm often immersed in the digital realm, using tools like Blender to bring my creative visions to life through 3D modeling and animation. With a diverse skill set in programming languages, I 
 thrive on solving complex problems and building elegant solutions. I bring a collaborative and proactive approach to every project, fueled by a love for innovation and teamwork. 
@@ -11,7 +10,7 @@ thrive on solving complex problems and building elegant solutions. I bring a col
 Beyond technology, I enjoy cooking/baking complex recipes, sketching, and playing strategic board games/card games, which inspire fresh perspectives that enrich my coding and design work. I'm eager to connect 
 with fellow gamers, developers, and creatives to collaborate on exciting projects and create something amazing together!
  
-### Languages 🍃 
+<img align=right width=150 src="0e28c1e1-2b46-11eb-98c3-8bd6c09c09f8.gif"> ### Languages 🍃 
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,c,cs,cpp,java,py)](https://skillicons.dev)
 
