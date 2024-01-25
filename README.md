@@ -1,6 +1,6 @@
 # ୧ ‧₊˚ 🍵 ⋅ᰔᩚ 
 
-### About Me 🐢
+### About Me 🐢<br />
 
 Hey there! 👋 I'm Maha, a passionate coder with a knack for crafting immersive digital experiences. Whether I'm diving into RPG worlds or meticulously coding game mechanics, I find joy in both playing and creating games. 
 
