@@ -17,5 +17,5 @@ LANGUAGES 🍃
 
 Let's connect! 💚
 
-[![Linkedin: Maha](https://img.shields.io/badge/-Ghazi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maha-khan-mk)](https://www.linkedin.com/in/maha-khan-mk)
+[![Linkedin: Maha](https://img.shields.io/badge/-Maha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maha-khan-mk)](https://www.linkedin.com/in/maha-khan-mk)
 
