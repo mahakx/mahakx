@@ -2,7 +2,7 @@
 
 Hi hi! I'm Maha Khan, a passionate Software Engineer.
 
-About Me 🌿🍵⋆｡°✩🧋
+🧋°✩ About Me 🌿🍵⋆｡
 
 Hey there! 👋 I'm Maha, a passionate gamer and coder with a knack for crafting immersive digital experiences. Whether I'm diving into RPG worlds or meticulously coding game mechanics, I find joy in both playing and creating games.
 
