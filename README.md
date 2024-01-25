@@ -12,7 +12,7 @@ with fellow gamers, developers, and creatives to collaborate on exciting project
  
 ### Languages 🍃 
 
-<img align=right width=150 src="0e28c1e1-2b46-11eb-98c3-8bd6c09c09f8.gif">[![My Skills](https://skillicons.dev/icons?i=html,css,c,cs,cpp,java,py)](https://skillicons.dev)
+<img align=right width=130 src="0e28c1e1-2b46-11eb-98c3-8bd6c09c09f8.gif">[![My Skills](https://skillicons.dev/icons?i=html,css,c,cs,cpp,java,py)](https://skillicons.dev)
 
 ### Other Skills 🦕 
 
