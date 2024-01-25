@@ -10,7 +10,8 @@ thrive on solving complex problems and building elegant solutions. I bring a col
 Beyond technology, I enjoy cooking/baking complex recipes, sketching, and playing strategic board games/card games, which inspire fresh perspectives that enrich my coding and design work. I'm eager to connect 
 with fellow gamers, developers, and creatives to collaborate on exciting projects and create something amazing together!
  
-<img align=left width=180 src="0e28c1e1-2b46-11eb-98c3-8bd6c09c09f8.gif"> ### Languages 🍃 
+<img align=left width=180 src="0e28c1e1-2b46-11eb-98c3-8bd6c09c09f8.gif"> 
+### Languages 🍃 
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,c,cs,cpp,java,py)](https://skillicons.dev)
 
