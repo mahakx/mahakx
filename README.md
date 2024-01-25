@@ -12,7 +12,7 @@ Beyond technology, I enjoy cooking/baking complex recipes, sketching, and playin
  
 SKILLS 🍃
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,c++,cs,cpp,css,java,py)](https://skillicons.dev)
 
 
 Let's connect! 💚
