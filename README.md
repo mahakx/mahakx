@@ -1,6 +1,6 @@
 ## ୧ ‧₊˚ 🍵 ⋅ᰔᩚ 
 
-Hi hi! I'm Maha Khan, a passionate Software Engineer.
+🐻 Hi hi! I'm Maha Khan, a passionate Software Engineer.
 
 About Me 
 
