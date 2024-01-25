@@ -2,7 +2,7 @@
 
 ### About Me 🐢
 
-<img align="left" width="100" height="100" ![200w](https://github.com/mahakx/mahakx/assets/107661850/5702f917-9457-4b0d-8d51-f78083a74089)> Hey there! 👋 I'm Maha, a passionate coder with a knack for crafting immersive digital experiences. Whether I'm diving into RPG worlds or meticulously coding game mechanics, I find joy in both playing and creating games. 
+<img align="left" width="100" height="100" scr = ![200w](https://github.com/mahakx/mahakx/assets/107661850/5702f917-9457-4b0d-8d51-f78083a74089)> Hey there! 👋 I'm Maha, a passionate coder with a knack for crafting immersive digital experiences. Whether I'm diving into RPG worlds or meticulously coding game mechanics, I find joy in both playing and creating games. 
 
 
 When I'm not gaming, I'm often immersed in the digital realm, using tools like Blender to bring my creative visions to life through 3D modeling and animation. With a diverse skill set in programming languages, I thrive on solving complex problems and building elegant solutions. I bring a collaborative and proactive approach to every project, fueled by a love for innovation and teamwork. 
