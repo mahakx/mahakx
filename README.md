@@ -10,7 +10,7 @@ When I'm not gaming, I'm often immersed in the digital realm, using tools like B
 
 Beyond technology, I enjoy cooking/baking complex recipes, sketching, and playing strategic board games/card games, which inspire fresh perspectives that enrich my coding and design work. I'm eager to connect with fellow gamers, developers, and creatives to collaborate on exciting projects and create something amazing together!
  
-SKILLS 🍃
+LANGUAGES 🍃
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,c,cs,cpp,java,py)](https://skillicons.dev)
 
