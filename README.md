@@ -16,7 +16,7 @@ LANGUAGES 🍃
 
 OTHER SKILLS 🦖
 
-[![My Skills](https://skillicons.dev/icons?i=ae,au,ps,pr,blender,mysql,unity,unreal,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ae,au,ps,blender,mysql,unity,unreal,)](https://skillicons.dev)
 
 Let's connect! 💚
 
